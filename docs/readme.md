@@ -25,7 +25,7 @@ extensible, and easy to test.
 - Clean modular code structure
 
 ## Project Structure
-
+```
 proxy-project/
 ├── src/ # Source files
 ├── include/ # Header files
@@ -39,6 +39,7 @@ proxy-project/
 ├── Makefile
 └── proxy # Compiled binary
 
+```
 
 ## Build Instructions
 
@@ -61,9 +62,12 @@ The proxy listens on 0.0.0.0:9999
 
 Leave this terminal running while testing from another terminal or browser
 
-##Testing
+```
+
+### Testing
 test_file.sh is provided in the tests folder, run that on your terminal.
-Drive link of video proof is also provided in proxy_project_proof.txt file in docs folder 
+Drive link of video proof:
+https://drive.google.com/file/d/1NKcNrwwKUsa7_n75saQSEZzsFc-F_lHB/view?usp=sharing
 
 ### Architecture Diagram :
 
