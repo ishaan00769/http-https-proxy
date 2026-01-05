@@ -67,7 +67,7 @@ Leave this terminal running while testing from another terminal or browser
 ### Testing
 test_file.sh is provided in the tests folder, run that on your terminal.
 Drive link of video proof:
-https://drive.google.com/file/d/1NKcNrwwKUsa7_n75saQSEZzsFc-F_lHB/view?usp=sharing
+https://drive.google.com/drive/folders/1_OiIILXEmdUPMqILDSvx2b8wJXFPrRv6?usp=sharing
 
 ### Architecture Diagram :
 ```

@@ -23,6 +23,8 @@ typedef struct {
 // thread function 
 
 static void *handle_client(void *arg) {
+
+    
     client_info *info = (client_info *)arg;
     int client_fd = info->client_fd;
 
