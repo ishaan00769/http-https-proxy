@@ -1,0 +1,6 @@
+# One domain or IP per line
+example.com
+badsite.org
+192.0.2.5
+www.instagram.com
+instagram.com

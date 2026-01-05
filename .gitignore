@@ -1,0 +1,5 @@
+proxy
+logs/*.log
+*.core
+core
+
