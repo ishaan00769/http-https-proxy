@@ -70,7 +70,7 @@ Drive link of video proof:
 https://drive.google.com/file/d/1NKcNrwwKUsa7_n75saQSEZzsFc-F_lHB/view?usp=sharing
 
 ### Architecture Diagram :
-
+```
 +--------+        +----------------+        +----------------+
 | Client | -----> |   Proxy Server | -----> | Remote Server  |
 | (curl) | <----- | (This Project) | <----- | (Web / HTTPS)  |
@@ -80,7 +80,8 @@ https://drive.google.com/file/d/1NKcNrwwKUsa7_n75saQSEZzsFc-F_lHB/view?usp=shari
                       |-- Logger
 
 
-#Component Descriptions:
+```
+### Component Descriptions:
 
 a) Listener / Server Core (main.cpp)
 
